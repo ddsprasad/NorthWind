@@ -30,7 +30,7 @@ object NorthWindTableau {
       .getOrCreate()
 
     /*******************************************************
-      * passing aruments
+      * passing arguments
       ******************************************************/
     val dir =  args(0).toString
 
